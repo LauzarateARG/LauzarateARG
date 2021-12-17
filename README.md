@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi I am Lautaro 👋
+
+```js
+const lautaro = {
+  code:[ JavaScript, HTML, CSS ],
+  tools:[ React, Node, Express, Redux ]
+  backend:[ MongoDB, Sequelize ]
+}
+```
 
 <!--
 **LauzarateARG/LauzarateARG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
