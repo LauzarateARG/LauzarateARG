@@ -12,8 +12,9 @@ You Can contact me:
 - [linkedin](https://www.linkedin.com/in/lautaro-ariel-zarate-castro-a87a98216/)
 - [instagram](https://www.instagram.com/lauzarate_arg)
 - Gmail: lautarozarate212001@gmaill.com
-- ![image](https://user-images.githubusercontent.com/77692385/146500808-a33b6a1a-c04a-4168-bd43-9ec3b03b0d88.png)
-: 3518722398
+- cel: 3518722398
+
+[![Lautaro GitHub stats](https://github-readme-stats.vercel.app/api?username=LauzarateARG)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **LauzarateARG/LauzarateARG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
