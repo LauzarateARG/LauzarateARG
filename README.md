@@ -15,7 +15,7 @@ Here I found a new world to explore and many colleagues to work with, this was w
 
 
 
-### You Can contact me:
+### You can contact me:
 - <a href="https://www.linkedin.com/in/lautaro-ariel-zarate-castro-a87a98216/">
   <img align="left" alt="Lautaro | linkedin" width="21px" src="https://user-images.githubusercontent.com/77692385/146503828-d4bc4825-7313-4185-ad69-0ce01eb1d58e.png" />
   </a>
