@@ -4,7 +4,7 @@
 const lautaro = {
   code:[ JavaScript, HTML, CSS ],
   tools:[ React, Node, Express, Redux ]
-  backend:[ MongoDB, Sequelize ]
+  backend:[ MongoDB, Sequelize, Firebase ]
 }
 ```
 ### About Me
