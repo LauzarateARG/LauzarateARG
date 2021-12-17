@@ -11,12 +11,15 @@ const lautaro = {
 
 
 You Can contact me:
-- [linkedin](https://www.linkedin.com/in/lautaro-ariel-zarate-castro-a87a98216/)
+- <a href="https://www.linkedin.com/in/lautaro-ariel-zarate-castro-a87a98216/">
+  <img align="left" alt="Lautaro | linkedin" width="21px" src="https://user-images.githubusercontent.com/77692385/146503828-d4bc4825-7313-4185-ad69-0ce01eb1d58e.png" />
+  </a>
 - <a href="https://www.instagram.com/lauzarate_arg">
   <img align="left" alt="Lautaro | intagram" width="21px" src="https://user-images.githubusercontent.com/77692385/146503160-ed45bea8-e46e-49b5-af78-197ee60d9a65.png" />
   </a>
 - Gmail: lautarozarate212001@gmaill.com
 - cel: 3518722398
+
 
 [![Lautaro GitHub stats](https://github-readme-stats.vercel.app/api?username=LauzarateARG)](https://github.com/anuraghazra/github-readme-stats)
 
