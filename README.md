@@ -1,4 +1,4 @@
-### Hi I’m Lautaro 👋
+### Welcome, nice to see you, I’m Lautaro and this is mi profile 👋
 
 ```js
 const lautaro = {
