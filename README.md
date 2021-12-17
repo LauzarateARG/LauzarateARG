@@ -8,7 +8,7 @@ const lautaro = {
 }
 ```
 
-You Can contact me
+You Can contact me:
 --->[linkedin](https://www.linkedin.com/in/lautaro-ariel-zarate-castro-a87a98216/)
 --->[instagram](https://www.instagram.com/lauzarate_arg)
 --->Gmail: lautarozarate212001@gmaill.com
